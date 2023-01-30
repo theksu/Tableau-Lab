@@ -1,6 +1,6 @@
 # Tableau-Lab
 
-### Build a Dashboard using the data included or use your own
+### Build a Dashboard using the titanic dataset
 #### Dash must contain:
 - Three different charts
 - Filter
